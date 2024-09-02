@@ -42,5 +42,3 @@ def calcular_humedad_a_33kPa( arena , arcilla , materia_organica ):
 
   return humedad_suelo_a_33KPa 
 
-
-calcular_humedad_a_33kPa( 0.846272727272727, )
